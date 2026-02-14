@@ -182,11 +182,10 @@ button.dock_icon:focus-visible {
 }
 
 .input_container {
-  width: 100%;
+  width: 80%;
   display: flex;
   align-items: center;
   gap: 16px;
-  padding-right: 110px;
 }
 
 .text_input {
